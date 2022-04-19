@@ -1,0 +1,14 @@
+.markedHTML>p{
+    display: flex;
+    flex-direction: column;
+}
+
+.markedHTML>p>img{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.media{
+    height:auto;
+}
