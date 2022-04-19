@@ -1,20 +1,20 @@
 import {useState} from 'react'
 const videos =[
     {
-        id: "3LgeAfx3eqg",
-        title:"TIN TỨC CRYPTO | CÁC NHÀ LẬP PHÁP MỸ ĐẨY LÙI VIỆC RA MẮT VÍ NOVI CỦA FACEBOOK"
+        id: "n7dLx2-ldb0",
+        title:"Với nhà văn, cấu trúc là nền móng, con chữ là gạch xây - Trương Quý | Have a Sip EP76"
     },
     {
-        id: "nLSwvRjjQA0",
-        title:"TECH TALK | TỌA ĐÀM CÔNG NGHỆ - TẬP 8 - CƠ HỘI X10 VÀ RỦI RO KHI ĐẦU TƯ TIỀN KỸ THUẬT SỐ"
+        id: "DJRhA4dGHD0",
+        title:"Viết lách giống như đánh tennis mỗi ngày - Đặng Hoàng Giang | Have a Sip EP48"
     },
     {
-        id: "jULQ4Z5ezdQ",
-        title:"TIN TỨC CRYPTO | CME NHÌN THẤY SỰ QUAN TÂM MỞ KỶ LỤC ĐỐI VỚI HỢP ĐỒNG TƯƠNG LAI BITCOIN (ETF)"
+        id: "5qap5aO4i9A",
+        title:"lofi hip hop radio - beats to relax/study to"
     },
     {
-        id: "ZOq3kV6go5s",
-        title:"TIN TỨC CRYPTO | CẬU BÉ 12 TUỔI ĐẾN TỪ LONDON ĐÃ KIẾM ĐƯỢC GẦN 400.000 USD NHỜ BÁN TOKEN NFT"
+        id: "gBDb5Dx8SS8",
+        title:"Chọn đường khó để ló cái tôi - Phóng viên, Nhà báo Trương Anh Ngọc | Have a Sip EP67"
     }
 ]
 
@@ -74,7 +74,7 @@ const Video =()=>{
                   <a href="# " title="Image from freeiconspng.com" className="ml-auto mr-2 md:mr-4"><img src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" width="18" alt="Facebook Logo HD PNG Pic" /></a>
                   <a className="" href="# " title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/twitter-icon-download-18.png" width="18" alt="Bird, blue, Logo Twitter PNG" /></a>
             </div>
-            <a className="flex items-center justify-center bg-gray-100 rounded-lg" href="https://www.youtube.com/c/NewstarChannel102/featured" title="youtube">Theo dõi trên <img src="https://www.freeiconspng.com/uploads/youtube-logo-png-transparent-image-5.png" width="100" alt="Youtube Logo PNG Transparent" /></a>
+            <a className="flex items-center justify-center bg-gray-100 rounded-lg" href="https://www.youtube.com" title="youtube">Theo dõi trên <img src="https://www.freeiconspng.com/uploads/youtube-logo-png-transparent-image-5.png" width="100" alt="Youtube Logo PNG Transparent" /></a>
 
            {/* nav row */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-1 mt-4 xl:hidden">
